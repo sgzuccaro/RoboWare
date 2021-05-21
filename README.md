@@ -13,7 +13,7 @@ git clone https://github.com/sgzuccaro/RoboWare.git
 
 2) You should now have a folder called RoboWare in your chosen directoy. Navigate inside this directory and Install the .deb file
 ```
-cd Roboware
+cd RoboWare
 sudo dpkg -i roboware-studio_1.2.0-1524709819_amd64.deb
 ```
 3) This completes the installation process. To attach the Roboware icon to your toolbar
